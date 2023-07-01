@@ -8,3 +8,5 @@ print(z)
 y=(z**2)+2
 plt.plot(z,y)
 plt.show()
+
+# Este código genera un grafico nuevo.

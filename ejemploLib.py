@@ -1,5 +1,5 @@
 def bienvenida():
-    print("Hola, este es un mensaje de la función de bienvenida")
+    print("Hola, este es un mensaje de la función de bienvenida. Usando Git")
     return
 
 def areacirculo(r):
@@ -10,3 +10,5 @@ def areacirculo(r):
 def areacuadrado(a,b):
     area = a*b
     return area
+
+#comentario agregado en la ramaclase6
