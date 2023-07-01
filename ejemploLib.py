@@ -1,5 +1,5 @@
 def bienvenida():
-    print("Hola, este es un mensaje de la función de bienvenida")
+    print("Hola, este es un mensaje de la función de bienvenida. Mostrando como agregar librerias.")
     return
 
 def areacirculo(r):
